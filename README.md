@@ -18,7 +18,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 <Route path="pagina1" element={<Nosotros/>}/>
 ```
 
-`En el archivo routes.jsx, Agremos 2 páginas más`
+`En el archivo AppRoutes.jsx, Agregamos 2 páginas más`
 
 ```
 <Route path="pagina1" element={<Pagina1/>}/>
